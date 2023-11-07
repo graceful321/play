@@ -1,0 +1,13 @@
+{
+    "name": "思源link生成工具",
+    "description": "A beautified favorites bar!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "tool.html",
+        "default_icon": "logo.png"
+    },
+    "permissions": [
+        "bookmarks"
+    ]
+}
